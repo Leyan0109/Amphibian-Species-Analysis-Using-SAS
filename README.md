@@ -19,7 +19,7 @@ The analysis uses amphibian observation data collected from **189 sites** surrou
 * Common newt
 * Great crested newt
 
-The data file (`amphibians.xlsx`) has been provided on Blackboard, originally published on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Amphibians).
+The data file (`amphibians.xlsx`), originally published on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Amphibians).
 
 ## 🎯 Objective
 
@@ -29,7 +29,7 @@ To explore, summarize, and analyze amphibian species data using **SAS**—with a
 
 ```
 amphibian-analysis-sas/
-1. data/                # amphibians.xlsx file (provided by instructor)
+1. data/                # amphibians.xlsx file 
 2. report/              # Word document combining SAS code (Part 1) and written analysis (Part 2)
 3. README.md            # Project summary (this file)
 ```
